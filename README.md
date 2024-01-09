@@ -1,0 +1,1 @@
+This project aims to predict house prices using a simple Linear Regression model. The model takes into account two key features: square footage and the number of bedrooms and bathrooms. By leveraging these factors, the model can provide an estimate of a house's price.
